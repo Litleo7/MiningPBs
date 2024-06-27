@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.reivax.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MiningPBsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
